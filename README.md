@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0002-add-two-numbers) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
