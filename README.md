@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -37,4 +38,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0443-string-compression) |
+## Array
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
