@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0443-string-compression) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
