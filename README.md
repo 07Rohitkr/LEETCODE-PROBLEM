@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0062-unique-paths) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0062-unique-paths) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
