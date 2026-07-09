@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0704-binary-search) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
