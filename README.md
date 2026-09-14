@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0062-unique-paths) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0704-binary-search) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/07Rohitkr/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Combinatorics
 |  |
